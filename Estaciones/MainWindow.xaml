@@ -26,16 +26,16 @@
         <UniformGrid Grid.Row="1" Grid.Column="1" Rows="2" Columns="2">
        
         <ScrollViewer Margin="10" HorizontalScrollBarVisibility="Visible">
-            <Image Source="invierno.jpg" Stretch="None"/>
+            <Image Source="invierno.jpg" />
         </ScrollViewer>
         <ScrollViewer Margin="10" HorizontalScrollBarVisibility="Visible">
-            <Image Source="primavera.jpg" Stretch="None"/>
+            <Image Source="primavera.jpg" />
         </ScrollViewer>
         <ScrollViewer Margin="10" HorizontalScrollBarVisibility="Visible">
-            <Image Source="verano.jpg" Stretch="None"/>
+            <Image Source="verano.jpg" />
         </ScrollViewer>
         <ScrollViewer Margin="10" HorizontalScrollBarVisibility="Visible">
-            <Image Source="otoño.jpg" Stretch="None"/>
+            <Image Source="otoño.jpg" />
         </ScrollViewer>
     </UniformGrid>
     </Grid>
